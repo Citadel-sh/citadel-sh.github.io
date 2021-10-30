@@ -1,0 +1,76 @@
+---
+---
+@import "minima";
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Source+Code+Pro:wght@500&display=swap');
+
+.site-header {
+    border-top: none;
+    border-bottom: none;
+}
+
+body {
+    font: 400 16px/1.5 -apple-system, BlinkMacSystemFont, 'Inter', sans-serif !important;
+}
+
+a, a:visited {
+    color: #1e90ff;
+}
+
+p {
+    color: hsl(216, 8%, 12%);
+}
+
+pre, code {
+    background-color: #f6f6f6;
+}
+
+.site-title {
+    font-weight: 700;
+
+    &:hover {
+        text-decoration: none;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .site-nav {
+        display: none;
+    }
+}
+
+.post-list-heading {
+    color: #84817a;
+    font-size: 12px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.post-meta {
+    font-size: 14px;
+    color: #84817a;
+    font-family: 'Source Code Pro', monospace;
+}
+
+.post-title {
+    font-size: 28px;
+    font-weight: 500;
+    letter-spacing: -1.5px;
+    font-family: 'Source Code Pro', monospace;
+}
+
+.p-author {
+    color: #ff5252
+}
+
+.post-link {
+    font-size: 24px;
+    font-weight: 500;
+    letter-spacing: -1.5px;
+    color: rgb(17, 17, 17) !important;
+    font-family: 'Source Code Pro', monospace;
+}
+
+// Hack for hiding the RSS Subscribe Button
+
+.rss-subscribe { display: none; }
