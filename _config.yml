@@ -21,7 +21,7 @@
 title: Citadel
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Copyright © 2021 Citadel. All rights reserved.
+  Copyright © 2021 Citadel.
 baseurl: "" # the subpath of your site, e.g. /blog
 production_url: https://citadel-sh.github.io
 domain: citadel-sh.github.io

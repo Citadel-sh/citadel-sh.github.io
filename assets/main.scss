@@ -1,7 +1,7 @@
 ---
 ---
 @import "minima";
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Source+Code+Pro:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Source+Code+Pro:wght@400;500&display=swap');
 
 .site-header {
     border-top: none;
@@ -9,16 +9,17 @@
 }
 
 body {
-    font: 400 16px/1.5 -apple-system, BlinkMacSystemFont, 'Inter', sans-serif !important;
+    font: 400 15px/1.5 -apple-system, BlinkMacSystemFont, 'Inter', sans-serif !important;
 }
 
 a, a:visited {
-    color: #1e90ff;
+    color: #2f50fb;
 }
 
 p {
-    color: hsl(216, 8%, 12%);
+    color:#323234;
     line-height: 1.618;
+    text-rendering:optimizeLegibility;
 }
 
 pre, code, .highlighter-rouge .highlight {
@@ -55,19 +56,15 @@ img {
 
 .post-meta {
     font-size: 14px;
-    color: #84817a;
+    color: #b3a99b;
     font-family: 'Source Code Pro', monospace;
 }
 
 .post-title {
     font-size: 28px;
-    font-weight: 500;
+    font-weight: 400;
     letter-spacing: -1.5px;
     font-family: 'Source Code Pro', monospace;
-}
-
-.p-author {
-    color: #1dd1a1
 }
 
 .post-link {
@@ -97,4 +94,9 @@ img {
 
 .site-footer p {
     color: #4d4e52;
+}
+
+.site-footer a, .site-footer p {
+    font-size: 12px;
+    font-family: 'Source Code Pro', monospace;
 }
