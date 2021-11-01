@@ -85,3 +85,16 @@ img {
 .footer-heading { display: none; }
 
 .footer-col-wrapper .footer-col-1:first-child { display: none; }
+
+.site-footer {
+    background-color:#111;
+    font-size: 11px;
+}
+
+.site-footer a {
+    color: white;
+}
+
+.site-footer p {
+    color: #4d4e52;
+}
