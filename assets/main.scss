@@ -32,6 +32,10 @@ pre, code {
     }
 }
 
+img {
+    display: block;
+}
+
 @media screen and (max-width: 600px) {
     .site-nav {
         display: none;
@@ -41,9 +45,9 @@ pre, code {
 .post-list-heading {
     color: #84817a;
     font-size: 12px;
-    font-weight: 700;
+    font-weight: 300;
     text-transform: uppercase;
-    letter-spacing: 2px;
+    letter-spacing: 5px;
 }
 
 .post-meta {
