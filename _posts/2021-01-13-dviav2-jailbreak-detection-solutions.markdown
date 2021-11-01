@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "DVIAv2 Jailbreak Detection Solutions"
-date:   2020-08-07 14:25:21 -0500
+date:   2021-01-13 14:25:21 -0500
 published: true
 author: "Kevin Mitchell"
 categories: "reverse-engineering"
