@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Decrypting an iOS AppStore application"
-date:   2021-10-30 14:25:21 -0500
+date:   2020-02-12 14:25:21 -0500
 categories: jekyll update
 published: true
 author: "Cole Roberts"
