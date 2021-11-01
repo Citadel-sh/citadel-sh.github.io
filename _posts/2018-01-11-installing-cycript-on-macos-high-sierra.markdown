@@ -3,7 +3,7 @@ layout: post
 title:  "Installing Cycript on MacOS High Sierra"
 date:   2018-01-11 14:25:21 -0500
 published: true
-author: "Cole Roberts"
+author: "Kevin Mitchell"
 categories: "reverse-engineering"
 permalink: /:categories/:path
 ---
