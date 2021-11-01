@@ -5,7 +5,7 @@ date:   2018-01-11 14:25:21 -0500
 published: true
 author: "Kevin Mitchell"
 categories: "reverse-engineering"
-permalink: /:categories/:path
+permalink: /blog/:categories/:path
 ---
 I received errors when I first tried to install Cycript on my iMac so hopefully this is useful for others. 
 

@@ -5,7 +5,7 @@ date:   2019-03-29 14:25:21 -0500
 published: true
 author: "Kevin Mitchell"
 categories: "reverse-engineering"
-permalink: /:categories/:path
+permalink: /blog/:categories/:path
 ---
   I recently needed to setup a pentesting enviroment for an iPhone 6S Plus running iOS 11.0.3. I've jailbroken the phone on with Electra (iOS 11.0 - 11.1.2). I've been wanting to give [Frida](https://www.frida.re/docs/ios/) a shot so I figured this would be a perfect time for me to document the set up process. 
 

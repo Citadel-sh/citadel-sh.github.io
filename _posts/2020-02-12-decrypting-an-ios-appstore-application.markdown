@@ -5,7 +5,7 @@ date:   2020-02-12 14:25:21 -0500
 published: true
 author: "Kevin Mitchell"
 categories: "reverse-engineering"
-permalink: /:categories/:path
+permalink: /blog/:categories/:path
 ---
 
 In this tutorial we'll be using an iPhone 7 running iOS 11.1 and [Electra 1.0.4](https://coolstar.org/electra/). We'll also be using [bfinject](https://github.com/BishopFox/bfinject) to decrypt an iOS AppStore application. 

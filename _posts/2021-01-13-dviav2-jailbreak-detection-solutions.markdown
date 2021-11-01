@@ -5,7 +5,7 @@ date:   2021-01-13 14:25:21 -0500
 published: true
 author: "Kevin Mitchell"
 categories: "reverse-engineering"
-permalink: /:categories/:path
+permalink: /blog/:categories/:path
 ---
 [DIVA-v2](https://github.com/prateek147/DVIA-v2) is a widely distributed iOS application used in the mobile security space to demonstrate vulnerabilities within iOS. In this article we'll show you how to circumvent the jailbreak detection exercises. 
 

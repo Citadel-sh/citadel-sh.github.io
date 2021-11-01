@@ -5,7 +5,7 @@ date:   2020-08-07 14:25:21 -0500
 published: true
 author: "Cole Roberts"
 categories: "reverse-engineering"
-permalink: /:categories/:path
+permalink: /blog/:categories/:path
 ---
  In this guide we'll cover the complete reverse engineering process for Ionic applications. Hybrid applications built with tools like Ionic, PhoneGap, and Cordova are not typically built with security in mind. They expose the application's source code at the top level where it can be changed, recompiled, and run on any device. 
 

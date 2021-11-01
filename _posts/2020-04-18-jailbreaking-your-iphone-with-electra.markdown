@@ -5,7 +5,7 @@ date:   2020-04-18 14:25:21 -0500
 published: true
 author: "Cole Roberts"
 categories: "reverse-engineering"
-permalink: /:categories/:path
+permalink: /blog/:categories/:path
 ---
  In this post we'll cover the process of jailbreaking your iPhone with Coolstar's [Electra](https://coolstar.org/electra/). 
 
