@@ -9,7 +9,7 @@ categories: "reverse-engineering"
 permalink: /:categories/:path
 ---
 
-In here are many tutorials on Hopper that do a much better job of explaining its intricacies. I will list a few resources at the bottom of this tutorial. The goal of this tutorial is to simply patch an application and re-install it to your phone. I will be using a naive jailbreak detection application just to keep things interesting. I will also be using the premium version of Hopper for this tutorial. If you donâ€™t have it, follow along knowing that all of this is possible if you come across an extra $100.
+In here are many tutorials on Hopper that do a much better job of explaining its intricacies. I will list a few resources at the bottom of this tutorial. The goal of this tutorial is to simply patch an application and re-install it to your phone. I will be using a naive jailbreak detection application just to keep things interesting. I will also be using the premium version of Hopper for this tutorial. If you don't have it, follow along knowing that all of this is possible if you come across an extra $100.
 
 First you should clone the [Naive Jailbreak Detection](https://github.com/klmitchell2/NaiveJailbreakDetection) repo to your machine and run the application on your phone. The app will look like this after pressing the button:
 
