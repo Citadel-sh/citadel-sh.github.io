@@ -2,7 +2,6 @@
 layout: post
 title:  "Reverse Engineering Ionic Applications"
 date:   2020-08-07 14:25:21 -0500
-categories: jekyll update
 published: true
 author: "Cole Roberts"
 categories: "reverse-engineering"

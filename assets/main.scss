@@ -21,7 +21,7 @@ p {
     line-height: 1.618;
 }
 
-pre, code {
+pre, code, .highlighter-rouge .highlight {
     background-color: #f6f6f6;
 }
 
@@ -32,6 +32,8 @@ pre, code {
         text-decoration: none;
     }
 }
+
+.site-title, .site-title:visited { color: black; }
 
 img {
     display: block;
@@ -65,7 +67,7 @@ img {
 }
 
 .p-author {
-    color: #ff5252
+    color: #1dd1a1
 }
 
 .post-link {

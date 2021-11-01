@@ -2,9 +2,8 @@
 layout: post
 title:  "Decrypting an iOS AppStore application"
 date:   2020-02-12 14:25:21 -0500
-categories: jekyll update
 published: true
-author: "Cole Roberts"
+author: "Kevin Mitchell"
 categories: "reverse-engineering"
 permalink: /:categories/:path
 ---

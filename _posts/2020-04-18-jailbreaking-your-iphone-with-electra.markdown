@@ -2,7 +2,6 @@
 layout: post
 title:  "Jailbreaking your iPhone with Electra"
 date:   2020-04-18 14:25:21 -0500
-categories: jekyll update
 published: true
 author: "Cole Roberts"
 categories: "reverse-engineering"
