@@ -3,11 +3,6 @@
 @import "minima";
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Source+Code+Pro:wght@500&display=swap');
 
-.site-header {
-    border-top: none;
-    border-bottom: none;
-}
-
 body {
     font: 400 15px/1.5 -apple-system, BlinkMacSystemFont, 'Inter', sans-serif !important;
 }
@@ -26,6 +21,20 @@ pre, code, .highlighter-rouge .highlight {
     background-color: #f6f6f6;
 }
 
+
+img {
+    display: block;
+}
+
+:root {
+    color-scheme: light dark;
+}
+
+.site-header {
+    border-top: none;
+    border-bottom: none;
+}
+
 .site-title {
     font-weight: 700;
 
@@ -35,16 +44,6 @@ pre, code, .highlighter-rouge .highlight {
 }
 
 .site-title, .site-title:visited { color: black; }
-
-img {
-    display: block;
-}
-
-@media screen and (max-width: 600px) {
-    .site-nav {
-        display: none;
-    }
-}
 
 .post-list-heading {
     color: #84817a;
@@ -86,6 +85,7 @@ img {
 .site-footer {
     background-color:#111;
     font-size: 11px;
+    border-top: none;
 }
 
 .site-footer a {
@@ -99,4 +99,39 @@ img {
 .site-footer a, .site-footer p {
     font-size: 12px;
     font-family: 'Source Code Pro', monospace;
+}
+
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #111;
+    }
+
+    .post-link {
+        color: rgb(236, 236, 236) !important;
+    }
+
+    .post-title {
+        color: white;
+    }
+
+    p, li{
+        color: #b1b1b1 !important;
+    }
+
+    .site-title, .site-title:visited {
+        color: white !important;
+    }
+
+    pre, code, .highlighter-rouge .highlight {
+        color: #bebebe !important;
+        border: 1px solid #292929 !important;
+        background-color: black;
+    }    
+}
+
+
+@media screen and (max-width: 600px) {
+    .site-nav {
+        display: none;
+    }
 }
