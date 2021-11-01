@@ -7,7 +7,7 @@ author: "Kevin Mitchell"
 categories: "reverse-engineering"
 permalink: /:categories/:path
 ---
-[DIVA-v2](https://github.com/prateek147/DVIA-v2) is a widely distributed iOS application used in the mobile security space to demonstrate vulnerabilities within iOS. In this article weâ€™ll show you how to circumvent the jailbreak detection exercises. 
+[DIVA-v2](https://github.com/prateek147/DVIA-v2) is a widely distributed iOS application used in the mobile security space to demonstrate vulnerabilities within iOS. In this article we'll show you how to circumvent the jailbreak detection exercises. 
 
 Jailbreak detection and circumvention can be implemented in a variety of ways. This post will teach you how to use the LLDB debugger and provides basic insight into the required ARM assembly needed to bypass DVIA-v2's jailbreak detection techniques. It should be noted that there are many ways to solve these challenges and this is not the only way.
 
