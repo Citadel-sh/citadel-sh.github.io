@@ -5,6 +5,7 @@ date:   2021-11-09
 published: true
 author: "Jesse Nuese"
 categories: "international-affairs"
+permalink: /blog/:categories/:path
 ---
 # Fear and Loathing in Cyberspace: Origins
 
