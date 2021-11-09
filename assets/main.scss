@@ -7,19 +7,41 @@ body {
     font: 400 15px/1.77 -apple-system, BlinkMacSystemFont, 'Inter', sans-serif !important;
 }
 
-a, a:visited {
+a, a:visited, a:hover {
     color: #00a8ff;
 }
 
 p {
     color:#323234;
     text-rendering:optimizeLegibility;
+    margin-bottom: 32px;
+}
+
+li > p {
+    margin-bottom: 4px;
+}
+
+ul {
+    margin-left: 0;
+    list-style: none;
+}
+
+hr {
+    border: 0.5px solid rgba($color: #000, $alpha: 0.1);
+    display: block;
+    margin: 10px 0;
 }
 
 pre, code, .highlighter-rouge .highlight {
     background-color: #f6f6f6;
 }
 
+h6 {
+    margin-bottom: 0;
+    font-style: italic;
+    font-size: 19px;
+    line-height: 1.5;
+}
 
 img {
     display: block;
@@ -115,6 +137,10 @@ em {
         background-color: #111;
     }
 
+    hr {
+        border: 0.5px solid rgba($color: #fff, $alpha: 0.1);
+    }
+
     .post-link {
         color: rgb(236, 236, 236) !important;
     }
@@ -123,7 +149,11 @@ em {
         color: white;
     }
 
-    p, li{
+    h1, h2, h3, h4, h4, h5, h6 {
+        color: rgba(255, 255, 255, 0.9)
+    }
+
+    p, li {
         color: #b1b1b1 !important;
     }
 
