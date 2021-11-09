@@ -2,7 +2,7 @@
 layout: post
 title:  "Fear and Loathing in Cyberspace: Origins"
 date:   2021-11-09
-published: false
+published: true
 author: "Jesse Nuese"
 categories: "international-affairs"
 ---
@@ -15,7 +15,7 @@ I don’t need to explain the extent to which the internet becomes a bigger and 
 
 ![](https://user-images.githubusercontent.com/91083210/140998084-2e7caa15-cf17-47cb-8711-6eaa72685c12.jpg)
 
-Inside the Joint Task Force in the late 1990s
+* A peek inside the Joint Task Force in the late 1990s.*
 
 
 
@@ -25,7 +25,7 @@ and norms and heuristics change, an abundance of opportunities for analysis pres
 
 
 ![](https://user-images.githubusercontent.com/91083210/140999884-ce8bec58-6535-4836-be08-a027639b0800.jpg)
-President Obama during a cybersecurity summit in 2015
+*President Obama during a cybersecurity summit in 2015.*
 
 
 ###### Given the relative youth of cybersecurity
@@ -33,7 +33,7 @@ as both a geopolitical challenge and an object of intellectual scrutiny, this pr
 
 
 ![](https://user-images.githubusercontent.com/91083210/140998637-63e2674f-abb0-4733-a9bc-b364232ad997.png)
-The image that appeared on Sony Pictures internal computers during the 2014 breach.
+*The image that appeared on Sony Pictures internal computers during the 2014 breach.*
 
 
 ###### After the two intrusions have been placed in conversation,
@@ -41,7 +41,7 @@ they will be analyzed through traditional modes of foreign policy decision makin
 
 
 ![](https://user-images.githubusercontent.com/91083210/140999532-2c25695b-c90b-4816-8dd9-77957eedb7f9.jpg)
-The Second of May 1808 by Fransisco Goya - How drastically conflict has changed since the 19th century.
+*The Second of May 1808 by Fransisco Goya - How drastically conflict has changed since the 19th century.*
 
 
 
