@@ -15,7 +15,7 @@ I don’t need to explain the extent to which the internet becomes a bigger and 
 
 ![](https://user-images.githubusercontent.com/91083210/140998084-2e7caa15-cf17-47cb-8711-6eaa72685c12.jpg)
 
-* A peek inside the Joint Task Force in the late 1990s.*
+*A peek inside the Joint Task Force in the late 1990s.*
 
 
 
