@@ -2,7 +2,7 @@
 layout: post
 title:  "Fear and Loathing in Cyberspace: The Interview"
 date:   2021-11-23
-published: false
+published: true
 author: "Jesse Nuese"
 categories: "international-affairs"
 permalink: /blog/:categories/:path
